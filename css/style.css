@@ -1,0 +1,35 @@
+body{
+    background-image: url("https://img.freepik.com/foto-gratis/fondo-azul-degradado-lujo-abstracto-azul-oscuro-liso-banner-estudio-vineta-negra_1258-52393.jpg");
+}
+#logo{
+    height: 200px;
+    float: right;
+}
+header{
+    height: 100%;
+    margin-top: 50px;
+}
+h1{
+    font-size: 80px;
+    font-family: "Sofia", sans-serif;
+    text-align: center;
+    color: whitesmoke;
+    text-shadow: 20px 15px 7px black;
+}
+a:link, a:visited {
+    color: (internal value);
+    text-decoration: underline;
+    font-family: "Times New Roman", Times, serif;
+   font-size: 20px;
+    padding-left: 80px;
+    color: black;
+    text-shadow:  0px 7px 3px whitesmoke;
+}
+h2{
+    font-family: "Times New Roman", Times, serif;
+    color: whitesmoke;
+}
+h3{
+    font-family: "Times New Roman", Times, serif;
+}
+

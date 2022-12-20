@@ -1,0 +1,22 @@
+
+a:link, a:visited {
+    color: (internal value);
+    text-decoration: underline;
+    font-family: "Times New Roman", Times, serif;
+    font-size: 22px;
+    padding-left: 100px;
+
+}
+h1{
+    font-family: "Sofia", sans-serif;
+    text-align: center;
+}
+.listado{
+    width: 100%;
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    background-color: burlywood;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+}
